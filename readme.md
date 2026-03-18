@@ -16,8 +16,7 @@ DOI: 10.1109/ACCESS.2024.3363634
 
 The dataset contains records of 454 Deaf and Hard-of-Hearing students with socio-economic, deafness-related, and prior academic performance features.
 
-Due to ethical and privacy considerations, the raw dataset is not publicly redistributed. Access can be requested from the original authors or the corresponding author of this study.
-
+Synthesis data is given in the name deaf_students_ctgan_augumented.
 HG_BPM/
 │
 ├── data/
