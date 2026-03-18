@@ -4,7 +4,7 @@ Description:
 Hybrid GA-Boosted Predictive Model using CTGAN and Ensemble Learning.
 
 Dataset:
-- Source: IEEE Access (DOI link)
+- Source: https://doi.org/10.1109/ACCESS.2024.3363634 
 - Samples: 454 original + augmented data
 
 Code:
