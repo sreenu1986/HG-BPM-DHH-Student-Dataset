@@ -12,7 +12,7 @@ The work is intended as an AI Application to support inclusive education by assi
 The dataset used in this study was obtained from:
 
 Raji et al., "Explainable Machine Learning Prediction for the Academic Performance of Deaf Scholars", IEEE Access, 2024  
-DOI: 10.1109/ACCESS.2024.3363634
+DOI: 10.1109/ACCESS.2024.3363634 
 
 The dataset contains records of 454 Deaf and Hard-of-Hearing students with socio-economic, deafness-related, and prior academic performance features.
 
