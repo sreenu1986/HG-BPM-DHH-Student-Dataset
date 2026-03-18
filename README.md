@@ -27,5 +27,4 @@ Libraries: numpy, pandas, sklearn, xgboost, lightgbm, ctgan
 Methodology:
 Preprocessing → CTGAN → XT Feature Selection → XGB+LightGBM → GA Optimization
 
-License:
-MIT License
+
